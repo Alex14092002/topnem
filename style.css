@@ -1,0 +1,11 @@
+.franchise-detail .cards .cards-item .card-row:first-child{
+    background-color: #ff0000 !important;
+}
+.btn-main{
+    background-color: #ff0000;
+    color: #fff;
+}
+.franchise-detail .content-section .rounds .round{
+    background-color: #ff0000;
+    color: #fff;
+}
