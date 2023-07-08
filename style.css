@@ -13,8 +13,8 @@
     font-weight: 600;
 }
 .franchise-detail .content-section .tags__item .img{
-    width: auto;
-    height: auto ;
+    width: 150px;
+    height: 150px ;
 }
 .title-text{
     color: #ff0000;
@@ -22,4 +22,14 @@
 .--lv3{
     text-align: center;
     font-weight: 600;
+}
+.mohinh-text{
+    color: #fff;
+}
+.btn-main{
+    background-color: #ff0000 !important;
+}
+.btn-main:hover{
+    background-color: #000 !important;
+    color: #fff;
 }
