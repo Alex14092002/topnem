@@ -12,3 +12,14 @@
 .weight{
     font-weight: 600;
 }
+.franchise-detail .content-section .tags__item .img{
+    width: auto;
+    height: auto ;
+}
+.title-text{
+    color: #ff0000;
+}
+.--lv3{
+    text-align: center;
+    font-weight: 600;
+}
